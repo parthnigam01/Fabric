@@ -1,0 +1,52 @@
+Day 1 
+In Fabrtic Notebook 
+on Orders Files 
+
+from pyspark.sql.types import * orderSchema = StructType([     StructField("SalesOrderNumber", StringType()),     StructField("SalesOrderLineNumber", IntegerType()),     StructField("OrderDate", DateType()),     StructField("CustomerName", StringType()),     StructField("Email", StringType()),     StructField("Item", StringType()),     StructField("Quantity", IntegerType()),     StructField("UnitPrice", FloatType()),     StructField("Tax", FloatType()) ]) df = spark.read.format("csv").schema(orderSchema).load("Files/orders/2019.csv") display(df)
+
+
+from pyspark.sql.types import *
+ 
+orderSchema = StructType([
+    StructField("SalesOrderNumber", StringType()),
+    StructField("SalesOrderLineNumber", IntegerType()),
+    StructField("OrderDate", DateType()),
+    StructField("CustomerName", StringType()),
+    StructField("Email", StringType()),
+    StructField("Item", StringType()),
+    StructField("Quantity", IntegerType()),
+    StructField("UnitPrice", FloatType()),
+    StructField("Tax", FloatType())
+])
+ 
+df = spark.read.format("csv").schema(orderSchema).load("Files/orders/*.csv")
+ 
+display(df)
+ 
+customers = df['CustomerName', 'Email']
+ 
+print(customers.count())
+print(customers.distinct().count())
+ 
+display(customers.distinct())
+ 
+
+
+
+customers = df.select("CustomerName", "Email").where(df['Item']=='Mountain-100 Silver, 44')
+print(customers.count())
+print(customers.distinct().count())
+ 
+display(customers.distinct())
+ 
+productSales = df.select("Item", "Quantity").groupBy("Item").sum()
+ 
+display(productSales)
+ 
+from pyspark.sql.functions import *
+ 
+yearlySales = df.select(year(col("OrderDate")).alias("Year")).groupBy("Year").count().orderBy("Year")
+ 
+display(yearlySales)
+ 
+
