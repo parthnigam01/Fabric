@@ -1,0 +1,14 @@
+supplier_id,supplier_name,contact_name,email,phone,city,country,payment_terms,lead_time_days,rating,created_date
+S001,Apple India Pvt Ltd,Rajiv Menon,rajiv@appleindia.com,9900001001,Mumbai,India,Net 30,7,5.0,2021-12-01
+S002,Samsung Electronics India,Preet Kaur,preet@samsung.in,9900002002,Noida,India,Net 45,10,4.5,2021-12-01
+S003,Dell Technologies India,Ashwin Rajan,ashwin@dell.in,9900003003,Bangalore,Karnataka,Net 30,5,4.8,2021-12-01
+S004,Sony India Pvt Ltd,Deepak Nambiar,deepak@sony.in,9900004004,Delhi,India,Net 30,7,4.7,2021-12-05
+S005,Nike India Operations,Sunita Rao,sunita@nike.in,9900005005,Chennai,India,Net 60,14,4.6,2021-12-05
+S006,Adidas India,Farhan Shaikh,farhan@adidas.in,9900006006,Mumbai,India,Net 45,12,4.4,2021-12-10
+S007,Levi Strauss India,Harpreet Gill,harpreet@levis.in,9900007007,Delhi,India,Net 30,10,4.3,2021-12-10
+S008,Canon India,Vijay Srinivasan,vijay@canon.in,9900008008,Delhi,India,Net 30,7,4.7,2021-12-15
+S009,Instant Pot Distributors,Ritu Aggarwal,ritu@ipot.in,9900009009,Gurugram,India,Net 30,10,4.2,2021-12-15
+S010,Dyson India,Kabir Sethi,kabir@dyson.in,9900010010,Mumbai,India,Net 45,14,4.9,2021-12-20
+S011,Scholastic India,Leela Pillai,leela@scholastic.in,9900011011,Chennai,India,Net 60,21,4.1,2021-12-20
+S012,MuscleBlaze Direct,Ajay Tomar,ajay@muscleblaze.in,9900012012,Noida,India,Net 15,3,4.5,2021-12-25
+S013,Lifelong Online,Preeti Mishra,preeti@lifelong.in,9900013013,Delhi,India,Net 15,3,4.3,2021-12-25

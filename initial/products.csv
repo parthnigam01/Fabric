@@ -1,0 +1,16 @@
+product_id,product_name,category,sub_category,brand,unit_price,cost_price,stock_quantity,supplier_id,created_date,updated_date,is_active
+P001,iPhone 14 Pro,Electronics,Mobile Phones,Apple,129999,95000,150,S001,2022-01-10,2022-01-10,true
+P002,Samsung Galaxy S23,Electronics,Mobile Phones,Samsung,79999,58000,200,S002,2022-01-10,2022-01-10,true
+P003,MacBook Air M2,Electronics,Laptops,Apple,114999,85000,80,S001,2022-01-12,2022-01-12,true
+P004,Dell XPS 15,Electronics,Laptops,Dell,149999,110000,60,S003,2022-01-12,2022-01-12,true
+P005,Sony WH-1000XM5,Electronics,Headphones,Sony,29999,20000,300,S004,2022-01-15,2022-01-15,true
+P006,Nike Air Max 270,Fashion,Footwear,Nike,12999,7000,500,S005,2022-01-20,2022-01-20,true
+P007,Adidas Ultraboost 22,Fashion,Footwear,Adidas,14999,8500,400,S006,2022-01-20,2022-01-20,true
+P008,Levi's 511 Slim Jeans,Fashion,Clothing,Levis,3999,2000,600,S007,2022-02-01,2022-02-01,true
+P009,Canon EOS R50,Electronics,Cameras,Canon,64999,48000,75,S008,2022-02-05,2022-02-05,true
+P010,Instant Pot Duo 7-in-1,Home & Kitchen,Appliances,Instant Pot,8999,5500,250,S009,2022-02-10,2022-02-10,true
+P011,Dyson V15 Detect,Home & Kitchen,Appliances,Dyson,54999,38000,100,S010,2022-02-15,2022-02-15,true
+P012,The Alchemist,Books,Fiction,Paulo Coelho,499,150,1000,S011,2022-03-01,2022-03-01,true
+P013,Atomic Habits,Books,Self Help,James Clear,599,180,800,S011,2022-03-01,2022-03-01,true
+P014,Whey Protein 2kg,Health & Sports,Supplements,MuscleBlaze,2999,1800,400,S012,2022-03-10,2022-03-10,true
+P015,Yoga Mat Premium,Health & Sports,Equipment,Lifelong,1299,700,350,S013,2022-03-15,2022-03-15,true

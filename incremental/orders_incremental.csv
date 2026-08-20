@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,order_status,payment_method,shipping_city,shipping_state,total_amount,discount_amount,tax_amount,net_amount,created_date
+O0026,C001,2023-02-01,Delivered,Credit Card,Noida,Uttar Pradesh,119999,6000,10260,124259,2023-02-01
+O0027,C016,2023-02-03,Delivered,UPI,Nagpur,Maharashtra,39999,0,3600,43599,2023-02-03
+O0028,C017,2023-02-05,Processing,Credit Card,Indore,Madhya Pradesh,112999,8000,9450,114449,2023-02-05
+O0029,C003,2023-02-08,Delivered,Debit Card,Bangalore,Karnataka,8999,0,810,9809,2023-02-08
+O0030,C018,2023-02-10,Delivered,UPI,Vadodara,Gujarat,699,0,63,762,2023-02-10
+O0031,C005,2023-02-12,Delivered,Credit Card,Chennai,Tamil Nadu,54999,5000,4500,54499,2023-02-12
+O0032,C008,2023-02-14,Returned,Cash on Delivery,Kolkata,West Bengal,8999,0,810,9809,2023-02-14
+O0033,C007,2023-02-15,Delivered,UPI,Pune,Maharashtra,1299,0,117,1416,2023-02-15
+O0034,C010,2023-02-18,Delivered,Credit Card,Kochi,Kerala,39999,2000,3420,41419,2023-02-18
+O0035,C002,2023-02-20,Delivered,Debit Card,Mumbai,Maharashtra,11999,0,1080,13079,2023-02-20

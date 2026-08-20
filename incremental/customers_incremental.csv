@@ -1,0 +1,9 @@
+customer_id,first_name,last_name,email,phone,city,state,country,segment,created_date,updated_date,is_active
+C001,Aarav,Sharma,aarav.sharma@gmail.com,9810001001,Noida,Uttar Pradesh,India,Gold,2022-01-15,2023-02-01,true
+C003,Rohan,Gupta,rohan.gupta@email.com,9830003003,Bangalore,Karnataka,India,Gold,2022-02-01,2023-02-05,true
+C007,Karan,Mehta,karan.mehta@newmail.com,9870007007,Pune,Maharashtra,India,Premium,2022-03-10,2023-02-10,true
+C009,Arjun,Rao,arjun.rao@email.com,9890009009,Hyderabad,Telangana,India,Standard,2022-04-01,2023-02-12,true
+C013,Nikhil,Bose,nikhil.bose@email.com,9833033033,Bhopal,Madhya Pradesh,India,Standard,2022-06-01,2023-02-15,false
+C016,Tanvi,Choudhary,tanvi.c@email.com,9812016016,Nagpur,Maharashtra,India,Standard,2023-02-01,2023-02-01,true
+C017,Aditya,Kapoor,aditya.k@email.com,9823017017,Indore,Madhya Pradesh,India,Premium,2023-02-05,2023-02-05,true
+C018,Ishaan,Trivedi,ishaan.t@email.com,9834018018,Vadodara,Gujarat,India,Gold,2023-02-10,2023-02-10,true

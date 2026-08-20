@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,phone,city,state,country,segment,created_date,updated_date,is_active
+C001,Aarav,Sharma,aarav.sharma@email.com,9810001001,Delhi,Delhi,India,Premium,2022-01-15,2022-01-15,true
+C002,Priya,Verma,priya.verma@email.com,9820002002,Mumbai,Maharashtra,India,Standard,2022-01-20,2022-01-20,true
+C003,Rohan,Gupta,rohan.gupta@email.com,9830003003,Bangalore,Karnataka,India,Premium,2022-02-01,2022-02-01,true
+C004,Sneha,Patel,sneha.patel@email.com,9840004004,Ahmedabad,Gujarat,India,Standard,2022-02-10,2022-02-10,true
+C005,Vikram,Singh,vikram.singh@email.com,9850005005,Chennai,Tamil Nadu,India,Gold,2022-02-15,2022-02-15,true
+C006,Ananya,Nair,ananya.nair@email.com,9860006006,Hyderabad,Telangana,India,Premium,2022-03-01,2022-03-01,true
+C007,Karan,Mehta,karan.mehta@email.com,9870007007,Pune,Maharashtra,India,Standard,2022-03-10,2022-03-10,true
+C008,Divya,Joshi,divya.joshi@email.com,9880008008,Kolkata,West Bengal,India,Gold,2022-03-20,2022-03-20,true
+C009,Arjun,Rao,arjun.rao@email.com,9890009009,Jaipur,Rajasthan,India,Standard,2022-04-01,2022-04-01,true
+C010,Meera,Krishnan,meera.krishnan@email.com,9800010010,Kochi,Kerala,India,Premium,2022-04-15,2022-04-15,true
+C011,Rahul,Agarwal,rahul.agarwal@email.com,9811011011,Lucknow,Uttar Pradesh,India,Standard,2022-05-01,2022-05-01,true
+C012,Pooja,Desai,pooja.desai@email.com,9822022022,Surat,Gujarat,India,Gold,2022-05-15,2022-05-15,true
+C013,Nikhil,Bose,nikhil.bose@email.com,9833033033,Bhopal,Madhya Pradesh,India,Standard,2022-06-01,2022-06-01,true
+C014,Tanya,Malhotra,tanya.malhotra@email.com,9844044044,Chandigarh,Punjab,India,Premium,2022-06-15,2022-06-15,true
+C015,Siddharth,Pillai,siddharth.pillai@email.com,9855055055,Coimbatore,Tamil Nadu,India,Standard,2022-07-01,2022-07-01,true

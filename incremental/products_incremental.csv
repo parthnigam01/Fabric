@@ -1,0 +1,9 @@
+product_id,product_name,category,sub_category,brand,unit_price,cost_price,stock_quantity,supplier_id,created_date,updated_date,is_active
+P001,iPhone 14 Pro,Electronics,Mobile Phones,Apple,119999,95000,120,S001,2022-01-10,2023-02-01,true
+P003,MacBook Air M2,Electronics,Laptops,Apple,109999,85000,65,S001,2022-01-12,2023-02-05,true
+P006,Nike Air Max 270,Fashion,Footwear,Nike,11999,7000,450,S005,2022-01-20,2023-02-10,true
+P013,Atomic Habits,Books,Self Help,James Clear,699,180,750,S011,2022-03-01,2023-02-12,true
+P016,iPad Pro 12.9,Electronics,Tablets,Apple,112999,82000,90,S001,2023-02-01,2023-02-01,true
+P017,OnePlus 11R,Electronics,Mobile Phones,OnePlus,39999,28000,300,S002,2023-02-05,2023-02-05,true
+P018,Puma RS-X Sneakers,Fashion,Footwear,Puma,8999,5000,500,S006,2023-02-08,2023-02-08,true
+P004,Dell XPS 15,Electronics,Laptops,Dell,139999,110000,50,S003,2022-01-12,2023-02-15,false

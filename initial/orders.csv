@@ -1,0 +1,26 @@
+order_id,customer_id,order_date,order_status,payment_method,shipping_city,shipping_state,total_amount,discount_amount,tax_amount,net_amount,created_date
+O0001,C001,2022-01-20,Delivered,Credit Card,Delhi,Delhi,129999,5000,11700,136699,2022-01-20
+O0002,C002,2022-01-22,Delivered,UPI,Mumbai,Maharashtra,79999,0,7200,87199,2022-01-22
+O0003,C003,2022-02-01,Delivered,Debit Card,Bangalore,Karnataka,14999,500,1300,15799,2022-02-01
+O0004,C004,2022-02-10,Delivered,Cash on Delivery,Ahmedabad,Gujarat,3999,0,360,4359,2022-02-10
+O0005,C005,2022-02-15,Delivered,Credit Card,Chennai,Tamil Nadu,29999,2000,2520,30519,2022-02-15
+O0006,C001,2022-02-20,Delivered,UPI,Delhi,Delhi,8999,0,810,9809,2022-02-20
+O0007,C006,2022-03-01,Delivered,Credit Card,Hyderabad,Telangana,114999,10000,9450,114449,2022-03-01
+O0008,C007,2022-03-05,Returned,Debit Card,Pune,Maharashtra,12999,0,1170,14169,2022-03-05
+O0009,C008,2022-03-10,Delivered,UPI,Kolkata,West Bengal,64999,5000,5400,65399,2022-03-10
+O0010,C009,2022-03-20,Delivered,Credit Card,Jaipur,Rajasthan,2999,0,270,3269,2022-03-20
+O0011,C010,2022-04-01,Delivered,UPI,Kochi,Kerala,1299,0,117,1416,2022-04-01
+O0012,C002,2022-04-05,Delivered,Credit Card,Mumbai,Maharashtra,54999,3000,4680,56679,2022-04-05
+O0013,C011,2022-04-10,Cancelled,Debit Card,Lucknow,Uttar Pradesh,149999,0,13500,163499,2022-04-10
+O0014,C012,2022-04-15,Delivered,UPI,Surat,Gujarat,499,0,45,544,2022-04-15
+O0015,C003,2022-04-20,Delivered,Credit Card,Bangalore,Karnataka,599,0,54,653,2022-04-20
+O0016,C013,2022-05-01,Delivered,Cash on Delivery,Bhopal,Madhya Pradesh,14999,1000,1260,15259,2022-05-01
+O0017,C014,2022-05-10,Delivered,UPI,Chandigarh,Punjab,129999,8000,11070,133069,2022-05-10
+O0018,C005,2022-05-15,Delivered,Credit Card,Chennai,Tamil Nadu,79999,5000,6750,81749,2022-05-15
+O0019,C015,2022-06-01,Delivered,Debit Card,Coimbatore,Tamil Nadu,8999,0,810,9809,2022-06-01
+O0020,C001,2022-06-10,Delivered,UPI,Delhi,Delhi,29999,0,2700,32699,2022-06-10
+O0021,C004,2022-06-15,Delivered,Credit Card,Ahmedabad,Gujarat,54999,4000,4590,55589,2022-06-15
+O0022,C006,2022-07-01,Delivered,UPI,Hyderabad,Telangana,12999,0,1170,14169,2022-07-01
+O0023,C008,2022-07-05,Delivered,Credit Card,Kolkata,West Bengal,3999,200,342,4141,2022-07-05
+O0024,C010,2022-07-10,Returned,Debit Card,Kochi,Kerala,2999,0,270,3269,2022-07-10
+O0025,C012,2022-07-20,Delivered,UPI,Surat,Gujarat,1299,0,117,1416,2022-07-20

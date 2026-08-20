@@ -1,0 +1,3 @@
+return_id,order_id,order_item_id,customer_id,product_id,return_date,reason,refund_amount,return_status
+R003,O0032,OI0032,C008,P010,2023-02-17,Not as described,8999,Processed
+R004,O0028,OI0028,C017,P016,2023-02-20,Changed mind,112999,Pending
